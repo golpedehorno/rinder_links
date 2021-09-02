@@ -4,7 +4,7 @@
     height: 200px;
     margin: 50px auto;
     border: 3px solid #AF5F1B;
-    transition: all 0.5s ease-out;
+    transition: all 1s ease-out;
     border-radius: 50%;
     background: linear-gradient(90deg, #AF5F1B 50%, transparent 0);
     background-size: 250% 150%;
@@ -34,7 +34,7 @@
     background-position: 100% 100%;
     color: #AF5F1B;
     border: 3px solid #AF5F1B;
-    transition: all 0.5s ease-out;
+    transition: all 1s ease-out;
     cursor: pointer;
     font-size: 20px;
 }
