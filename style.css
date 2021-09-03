@@ -68,6 +68,10 @@ img{
  }
  @media (max-width: 600px){
     .contenedor{
-        width: 300px;
+        width: 250px;
+        font-size: 12px;
+    }
+    .contenedor:hover{
+        font-size:15px;
     }
  }
